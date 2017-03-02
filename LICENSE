@@ -1,0 +1,14 @@
+
+git add file
+
+git commit -m 'message'
+
+git status 
+
+git reset --hard HEAD^
+
+git reflog
+
+git reset --hard 'commit id'
+
+
